@@ -1,0 +1,6 @@
+{
+  "name": "ماركت أولاد عاشور",
+  "description": "نظام كاشير POS وإدارة مخزون ومبيعات وأرباح وفواتير لماركت أولاد عاشور",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
